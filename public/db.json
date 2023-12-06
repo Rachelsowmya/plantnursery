@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "pname #1 ---Rose Plant",
+        "description": "Beautiful red roses for your garden.",
+        "price": 19.99,
+        "image": "rose.jpg",
+      "availability": true,
+        "careTips": "Water regularly, provide sunlight.",
+        "reviews": [
+          {
+            "user": "gardener123",
+            "comment": "Lovely flowers! Highly recommend.",
+            "rating": 5
+          }
+        ],
+        "promotionalData": {
+          "discountPercentage": 10,
+          "promoEndDate": "2023-12-31"
+        }
+      },
+      {
+        "id": 2,
+        "name": "pname #2Fern Plant",
+        "description": "Lush green fern to add a touch of nature to your home.",
+        "price": 24.99,
+        "image": "fern.jpg",
+      "availability": false,
+        "careTips": "Keep in a shaded area, mist regularly.",
+        "reviews": [
+          {
+            "user": "natureLover",
+            "comment": "Adapts well to indoor environments.",
+            "rating": 4
+          }
+        ],
+        "promotionalData": null
+      },
+      {
+        "id": 3,
+        "name": "pname #3 ---Monstera Delicious",
+        "description": "the Monstera deliciosa is famous for its quirky natural leaf holes.",
+        "price": 34.99,
+        "image": "monsrtern.jpg",
+      "availability": true,
+        "careTips": "Thrives in bright indirect to medium light Water every 1-2 weeks, allowing soil to dry out between waterings.",
+        "reviews": [
+          {
+            "user": "nivn@56",
+            "comment": "The plant arrived in absolutely perfect condition. Had no problems while acclimating to the new environment.I am incredibly happy with this purchase.",
+            "rating": 5
+          }
+        ],
+        "promotionalData": null
+      },
+      {
+        "id": 4,
+        "name": "pname #4 ---Petite Sunset Orchid",
+        "description": "One of the easiest varieties to grow as a houseplant—it is affectionately called the beginner orchid. You may notice a small number of blooms on your orchid upon delivery. These blooms will open quicker in a warm indoor setting. It will typically bloom about once a year, for up to three months. After a blooming cycle, the flowers will wilt and fall off. This is the orchid’s way to store up energy to re-bloom again next season.",
+        "price": 68.00,
+        "image": "orchid.jpg",
+      "availability": true,
+        "careTips": "Thrives in bright indirect light, but can tolerate medium indirect light. Direct sun tolerance is species dependant.        Water every 1-2 weeks",
+        "reviews": [
+          {
+            "user": "kenika",
+            "comment": "This came in a tight buble wrap. I love it.",
+            "rating": 4
+          }
+        ],
+        "promotionalData": {
+           "discountPercentage": 15
+        }
+        },
+      {
+        "id": 5,
+        "name": "pname # 5---Aglaonema Wishes",
+        "description": "Embrace color with this unique Aglaonema cultivar, Wishes. A fitting name since the Aglaonema is said to bring luck, fortune, and general positivity to those who grow it. Whether you believe in its hidden powers or not, there’s no denying this colorful plant will bring joy to your space.",
+        "price":78.00 ,
+        "image": "aglaonema.jpg",
+      "availability": true,
+        "careTips": "Thrives in medium to bright indirect light. Can tolerate low light conditions. Not suited for direct sun.Water every 1-2 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light and less often in lower light",
+        "reviews": [
+          {
+            "user": "lilly",
+            "comment": "Seller shipped fast and the plants were healthy. Mine came with zero damaged leaves. Mine came 4+ plant stems. ",
+            "rating": 5
+          }
+        ],
+        "promotionalData": null 
+      }
+    ]
+  }
+  
